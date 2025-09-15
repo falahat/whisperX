@@ -2,7 +2,7 @@
 urls = { repository = "https://github.com/falahat/whisperx" }
 authors = [{ name = "Max Bain" }]
 name = "whisperx-typed"
-version = "3.4.4"
+version = "3.4.5"
 description = "A type-aware fork of whisperx"
 readme = "README.md"
 requires-python = ">=3.9, <3.13"
